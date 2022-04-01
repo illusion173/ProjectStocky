@@ -2,4 +2,8 @@
 
 ## Developed by Jeremiah Webb
 
-### Project Stocky
+### Project Stocky - IN DEVELOPMENT
+
+
+Application to display basic stock indicators in Python
+
